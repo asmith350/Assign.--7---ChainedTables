@@ -1,0 +1,16 @@
+
+CPS315-01,02                Computer Science III               Fall 2016
+
+
+               Programming Assignment #7: Chained Hash Table
+                           (Due date: 11/30/2016)
+
+
+    This assignment is to implement the ChainedTable class in Section 11.4.
+
+    Please go to www.cs.colorado.edu/~main/dsoj.html to download the 
+skeleton of the class.
+
+    The main program is called ChainedTableDemonstration.java.
+
+    A sample output is attached.

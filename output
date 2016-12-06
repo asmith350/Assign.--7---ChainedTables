@@ -1,0 +1,49 @@
+
+----------------------------------------
+0
+     43210  Sally Adams, 845-123-4567
+1
+2
+     21212  Susan Rosenburg, 914-222-1111
+     22222  Jerry Jefferson, 914-111-2222
+3
+     33333  John Silverburg, 845-462-2222
+4
+5
+     98765  Jessica Green, 255-123-4567
+     12345  Lisa Cook, 255-123-4567
+     55555  Cathy Baker, 255-765-4321
+6
+7
+8
+9
+     99999  Peter Young, 212-000-0000
+     11119  Scott Walder, 212-999-9999
+     56789  Frank Smith, 212-888-8888
+----------------------------------------
+
+12345 is in the hash table.
+12340 is not in the hash table.
+56789 is in the hash table with data "Frank Smith, 212-888-8888"
+66666 is not in the hash table.
+
+----------------------------------------
+0
+     43210  Sally Adams, 845-123-4567
+1
+2
+     22222  Jerry Jefferson, 914-111-2222
+3
+     33333  John Silverburg, 845-462-2222
+4
+5
+     98765  Jessica Green, 255-123-4567
+     55555  Cathy Baker, 255-765-4321
+6
+7
+8
+9
+     99999  Peter Young, 212-000-0000
+     11119  Scott Walder, 212-999-9999
+----------------------------------------
+
